@@ -13,7 +13,3 @@ Gpio* getBoardMetaOutputs() {
     return OUTPUTS;
 }
 */
-
-int getBoardMetaDcOutputsCount() {
-    return 0;
-}
